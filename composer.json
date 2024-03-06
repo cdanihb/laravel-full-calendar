@@ -1,11 +1,11 @@
 {
-    "name": "naowas/laravel-full-calendar",
+    "name": "cdanihb/laravel-full-calendar",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
-            "name": "Naowas Morshed Eimon",
-            "email": "naowas.morshed@gmail.com",
-            "homepage": "https://naowas.github.io",
+            "name": "Christian Daniel Herrera Briones",
+            "email": "cdanihb@gmail.com",
+            "homepage": "https://cdanihb@github.io",
             "role": "Developer"
         }
     ],
@@ -16,13 +16,13 @@
         "laravel/helpers": "^1.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
+    "homepage": "https://github.com/cdanihb/laravel-full-calendar",
     "support": {
-        "email": "naowas.morshed@gmail.com",
-        "issues": "https://github.com/naowas/laravel-full-calendar/issues",
-        "wiki": "https://github.com/naowas/laravel-full-calendar/wiki",
-        "source": "https://github.com/naowas/laravel-full-calendar",
-        "docs": "https://github.com/naowas/laravel-full-calendar"
+        "email": "cdanihb@gmail.com",
+        "issues": "https://github.com/cdanihb/laravel-full-calendar/issues",
+        "wiki": "https://github.com/cdanihb/laravel-full-calendar/wiki",
+        "source": "https://github.com/cdanihb/laravel-full-calendar",
+        "docs": "https://github.com/cdanihb/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {
